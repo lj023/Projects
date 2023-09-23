@@ -1,5 +1,5 @@
 # Data Science Projects
-I am currently in the process of updating the projects marked as 'TBU' and will share them once they are finalized. I am open to any comments and advice.
+I am currently in the process of updating the projects marked as 'TBU' and will share them once they are finalized.
 
 # Projects Descriptions
 #### [Predicting Heart Disease Risk Factors: A Data-Driven Approach](https://github.com/lj023/Projects/tree/main/Predicting%20Heart%20Disease):
